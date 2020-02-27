@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810215992675",
+    "firebase_url": "https://your-finger-unity.firebaseio.com",
+    "project_id": "your-finger-unity",
+    "storage_bucket": "your-finger-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810215992675:android:8c6d4ae498ab8866c1f756",
+        "android_client_info": {
+          "package_name": "com.zipenter.yourfinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810215992675-1s4e3ml70d3modhopdq8kh2ej6662532.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATH0wNtQAmjpgxV6rqKzlwS6GnAh7nW-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810215992675-1s4e3ml70d3modhopdq8kh2ej6662532.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
