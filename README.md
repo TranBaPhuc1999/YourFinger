@@ -9,7 +9,7 @@ Place your finger on the screen and lift it up as the hammer hits
 **Be careful!!!!!!!!!!!!!**
 
 ## Development team
-* [Phuc Tran Ba](https://github.com/TranBaPhuc1999)
+* [Phuc Tran Ba](https://github.com/phuctranba)
 
 ## Development purpose
 Personal projects
